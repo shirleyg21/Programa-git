@@ -1,0 +1,22 @@
+---> EJERCICIO PROPUESTO <---
+
+Realice la ejecución de cada uno de los comandos básicos de git remoto y 
+local teniendo en cuenta el ejercicio propuesto.
+
+PASO 1
+
+- Crear un nuevo repositorio público en GitHub con el nombre Programa-git.
+- Añadirlo al repositorio local del Programa.
+- Mostrar todos los repositorios remotos configurados con git remote -v
+
+PASO 2
+
+- Agregar los cambios del repositorio local al repositorio remoto de GitHub.
+- Acceder a GitHub o GitLab y comprobar que se han subido los cambios mostrando el historial de versiones.
+
+PASO 3
+
+- Agregar el archivo kotlin.txt que contenga el nombre del usuario y su correo electrónico.
+- Agregar los cambios.
+- Realizar un commit con el mensaje “Añadido datos.”
+- Cargar cambios al repositorio remoto.
